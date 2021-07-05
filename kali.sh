@@ -20,5 +20,5 @@ chmod +x install-nethunter-termux
 2)
 exit ;;
 *)
-echo -e 'e\[1;31m Thank for using my tool e\[0m';;
+echo -e '\e[1;31m Thank for using my tool e\[0m';;
 esac
