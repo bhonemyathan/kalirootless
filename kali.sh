@@ -4,7 +4,7 @@ clear
 echo -e '\e[1;32m'
 figlet Kali Rootless
 echo -e '\e[0m'
-echo -e '\e{1;31m Coder Bhone Myat Han \e[0m'
+echo -e '\e[1;31m Coder Bhone Myat Han \e[0m'
 echo ""
 echo -e '\e[1;30m Requirements:Ram 4gb,storage 64gb,Data Package 5gb,Install Nethunter-KeX client(url-store.nethunter.com) \e[0m'
 echo ""
@@ -23,5 +23,5 @@ chmod +x install-nethunter-termux
 2)
 exit ;;
 *)
-echo -e '\e[1;31m Thank for using my tool e\[0m';;
+echo -e '\e[1;31m Thank for using my tool \e[0m';;
 esac
